@@ -1,4 +1,4 @@
-﻿/*<meta />*/
+/*<meta />*/
 
 body
 {
@@ -798,6 +798,7 @@ p.fonttest5
 	text-decoration: underline;
 	text-transform: uppercase;
 }
+
 td.fonttest
 {
 	margin-top: 0pt;
@@ -856,3 +857,19 @@ td.fonttest5
 	text-decoration: underline;
 	text-transform: uppercase;
 }
+
+p.block	/*p*/
+{
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	font-family: Calibri;
+	font-size: 11pt;
+	font-weight: normal;
+	letter-spacing: 7px;
+	text-align: right;
+	text-indent: 100px;
+	vertical-align: 36px;
+	word-spacing: 50px;
+	hanging-punctuation: last;
+}
+
