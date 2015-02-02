@@ -1,4 +1,4 @@
-/*<meta />*/
+﻿/*<meta />*/
 
 body
 {
@@ -733,3 +733,126 @@ table.TESTSTYLES	/*FINAL TESTING*/
 	border-bottom: ridge 1px;
 }
 
+caption.captiontest
+{
+	mc-auto-number-format: 'hello - ';
+	mc-auto-number-offset: 150px;
+	display: table-caption;
+}
+
+p.fonttest
+{
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	font-family: Calibri;
+	font-size: 11pt;
+	font-weight: normal;
+	color: #ff6347;
+}
+
+p.fonttest1
+{
+	color: #ff6347;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	font-size: 11pt;
+	font-weight: normal;
+	font-family: 'Adobe Caslon Pro Bold';
+	font: arial;
+}
+
+p.fonttest2
+{
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	font-size: 11pt;
+	font-weight: normal;
+	font-family: 'Adobe Gothic Std B';
+}
+
+p.fonttest3	/*size*/
+{
+	color: #ff6347;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	font-family: Calibri;
+	font-weight: normal;
+	font-size: 19pt;
+}
+
+p.fonttest4	/*style*/
+{
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	font-family: Calibri;
+	font-size: 11pt;
+	font-weight: normal;
+	font-style: italic;
+}
+
+p.fonttest5
+{
+	font-variant: small-caps;
+	font-weight: bolder;
+	line-height: 17px;
+	text-decoration: underline;
+	text-transform: uppercase;
+}
+td.fonttest
+{
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	font-family: Calibri;
+	font-size: 11pt;
+	font-weight: normal;
+	color: #ff6347;
+}
+
+td.fonttest1
+{
+	color: #ff6347;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	font-size: 11pt;
+	font-weight: normal;
+	font-family: 'Adobe Caslon Pro Bold';
+	font: arial;
+}
+
+td.fonttest2
+{
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	font-size: 11pt;
+	font-weight: normal;
+	font-family: 'Adobe Gothic Std B';
+}
+
+td.fonttest3	/*size*/
+{
+	color: #ff6347;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	font-family: Calibri;
+	font-weight: normal;
+	font-size: 19pt;
+}
+
+td.fonttest4	/*style*/
+{
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	font-family: Calibri;
+	font-size: 11pt;
+	font-weight: normal;
+	font-style: italic;
+}
+
+td.fonttest5
+{
+	font-variant: small-caps;
+	font-weight: bolder;
+	line-height: 17px;
+	text-decoration: underline;
+	text-transform: uppercase;
+}
