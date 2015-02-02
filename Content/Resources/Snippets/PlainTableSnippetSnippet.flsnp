@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../TableStyles/Simple.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <table MadCap:conditions="RegularConditions.red,RegularConditions.green" MadCap:targetName="plain">
+            <col />
+            <col />
+            <col />
+            <col />
+            <col />
+            <col />
+            <col />
+            <thead>
+                <tr>
+                    <th>&#160;</th>
+                    <th>&#160;</th>
+                    <th>&#160;</th>
+                    <th>&#160;</th>
+                    <th>&#160;</th>
+                    <th>&#160;</th>
+                    <th>&#160;</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Maecenas sed augue a purus ornare tempus eu sed urna.</td>
+                    <td>Morbi ut elit scelerisque, tempus nunc in, viverra augue.</td>
+                    <td>Quisque vel quam aliquet, congue mi a, tempus velit.</td>
+                    <td>Suspendisse ultricies arcu luctus orci tempor, non aliquet risus blandit.</td>
+                    <td>&#160;</td>
+                    <td>Fusce rutrum libero ut risus tempus, eget feugiat ipsum posuere.</td>
+                    <td>&#160;</td>
+                </tr>
+                <tr>
+                    <td>cMorbi congue lectus eu nulla auctor luctus.</td>
+                    <td>Cras sed mauris accumsan eros eleifend dictum sit amet sed purus.</td>
+                    <td>&#160;</td>
+                    <td>&#160;</td>
+                    <td>&#160;</td>
+                    <td>dwqdwd</td>
+                    <td>&#160;</td>
+                </tr>
+                <tr>
+                    <td>bVestibulum vel urna id tellus placerat laoreet vel quis eros.</td>
+                    <td>
+                        <table style="width: 100%;mc-table-style: url('../TableStyles/Simple.css');" class="TableStyle-Simple" cellspacing="0">
+                            <col class="TableStyle-Simple-Column-Column1" />
+                            <col class="TableStyle-Simple-Column-Column1" />
+                            <tbody>
+                                <tr class="TableStyle-Simple-Body-Row1">
+                                    <td class="TableStyle-Simple-BodyE-Column1-Row1">Nulla ac ante rhoncus, vestibulum odio ultrices, auctor mi.</td>
+                                    <td class="TableStyle-Simple-BodyD-Column1-Row1">55445</td>
+                                </tr>
+                                <tr class="TableStyle-Simple-Body-Row1">
+                                    <td class="TableStyle-Simple-BodyB-Column1-Row1">&#160;</td>
+                                    <td class="TableStyle-Simple-BodyA-Column1-Row1">5544</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                    <td colspan="2">&#160;</td>
+                    <td>&#160;</td>
+                    <td>
+                        <p class="done">Phasellus ut libero in ex ultricies eleifend.</p>
+                    </td>
+                    <td>&#160;</td>
+                </tr>
+                <tr>
+                    <td>aLorem ipsum dolor sit amet, consectetur adipiscing elit.</td>
+                    <td>Duis sodales purus vulputate, aliquet sapien vitae, consequat nisl.</td>
+                    <td>Aliquam maximus leo eget nunc auctor viverra.</td>
+                    <td>Fusce tristique eros eget ipsum laoreet sodales.</td>
+                    <td>&#160;</td>
+                    <td>Cras sollicitudin est at tellus egestas scelerisque.</td>
+                    <td>&#160;</td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>&#160;</td>
+                    <td>&#160;</td>
+                    <td>&#160;</td>
+                    <td>&#160;</td>
+                    <td>&#160;</td>
+                    <td>&#160;</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>&#160;</td>
+                    <td>&#160;</td>
+                    <td>&#160;</td>
+                    <td>&#160;</td>
+                    <td>&#160;</td>
+                    <td>&#160;</td>
+                </tr>
+                <tr>
+                    <td>1Nam sagittis justo sit amet venenatis fringilla.</td>
+                    <td>Vestibulum convallis nunc sed eros finibus, eu faucibus mi tempus.</td>
+                    <td>Integer dapibus dui nec posuere congue.<img src="../Images/RedX.png" /></td>
+                    <td>Pellentesque eget ex id neque porttitor sagittis.<table style="width: 100%; caption-side: top; mc-caption-repeat: true; margin-left: auto; margin-right: auto;"><col style="width: 57px;" /><col /><col /><col /><col /><thead><tr><th>h1</th><th>h2</th><th>&#160;</th><th>&#160;</th><th>&#160;</th></tr></thead><tbody><tr><td>a</td><td>x3</td><td>&#160;</td><td>&#160;</td><td>&#160;</td></tr><tr><td>b</td><td>x2</td><td>&#160;</td><td>&#160;</td><td>&#160;</td></tr><tr><td>#</td><td>x1</td><td>&#160;</td><td>&#160;</td><td>&#160;</td></tr><tr><td>2</td><td>2</td><td>&#160;</td><td>&#160;</td><td>&#160;</td></tr><tr><td>1</td><td>!</td><td>&#160;</td><td>&#160;</td><td>&#160;</td></tr></tbody><tfoot><tr><td>3</td><td>1</td><td>&#160;</td><td>&#160;</td><td>&#160;</td></tr></tfoot></table></td>
+                    <td>&#160;</td>
+                    <td>Cras viverra enim sit amet enim rutrum gravida.</td>
+                    <td>&#160;</td>
+                </tr>
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td>&#160;</td>
+                    <td>&#160;</td>
+                    <td>&#160;</td>
+                    <td>&#160;</td>
+                    <td>&#160;</td>
+                    <td>&#160;</td>
+                    <td>&#160;</td>
+                </tr>
+            </tfoot>
+        </table>
+    </body>
+</html>

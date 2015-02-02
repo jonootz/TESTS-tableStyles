@@ -1,0 +1,3 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget Version="2" Comment="HTML5 Output" Type="WebHelp2" Destinations="" GlossaryTermConversion="marked" ConditionTagExpression="include[RegularConditions.red]exclude[RegularConditions.green]" InsertMOTW="true" MasterPage="/Content/Resources/MasterPages/MasterPage.flmsp" AliasFile="/Project/Advanced/AliasFile.flali" EnableSitemap="false" IncludeStopWords="true" GenerateWebSafeImages="true" WebSafeFileExtension="png">
+</CatapultTarget>
